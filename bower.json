@@ -1,0 +1,11 @@
+{
+  "name": "indentation",
+  "version": "0.0.1",
+
+  "ignore": [
+    ".*",
+    "spec",
+    "package.json",
+    "karma.conf.js"
+  ]
+}
